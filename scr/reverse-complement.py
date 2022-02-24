@@ -6,7 +6,7 @@ VERSION
     1.0
     
 AUTHOR
-	Victor Ulises Plascencia Perez
+	Victor Ulises Plascencia Perez  sexy
     
 DESCRIPTION
 	Make the reverse complement of DNA sequence
