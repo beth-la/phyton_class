@@ -12,7 +12,12 @@ Link de la LCG UNAM
 <img src="C:\Users\ulise\Documents\UNAM\LCG\semestre1\Logo_LCG.png" width="100" height="100" />
 
 
-
+## Lugares para visitar en la CDMX:
+- Museo Soumaya.
+- Coyoacan restaurante Chester´s
+- Condesa
+- Palacio de Bellas Artes 
+- Ciudad universitaria
 ## Tema: Markdown  
 
 ### ¿Que es  MarkDown?  
