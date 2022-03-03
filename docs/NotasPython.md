@@ -11,7 +11,11 @@ Link de la LCG UNAM
 
 <img src="C:\Users\ulise\Documents\UNAM\LCG\semestre1\Logo_LCG.png" width="100" height="100" />
 
-
+## Lugares para visitar en la CDMX
+- Museo Soumaya 
+- restarutante Chester´s coyoacan
+- Ciudad universitaria 
+- Museo Jumex
 
 ## Tema: Markdown  
 
