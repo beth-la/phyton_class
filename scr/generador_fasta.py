@@ -14,7 +14,7 @@ with open('data/dna.txt','r') as archivo:
     ADN= archivo.read()
 
 # Creamos un nuevo archivo que tendra el formato fasta, abriendolo como "write"
-# Escribimos el encabezado y la secuencia con .write
+# Escribimos el encabezado y la secuencia que esta contenida en la variable ADN, con .write
 # Cerramos el arhivo. 
 
 my_file= open("data/dna.fasta","w")
