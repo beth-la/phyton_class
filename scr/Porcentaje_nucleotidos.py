@@ -1,5 +1,5 @@
 # Name: Calculo de porcentaje de nucleotidos
-# Version:
+# Version: 1.0
 # Author: Lopez A. Brenda E.
 # Descripcion: Programa que calcula el porcentaje de nucleotidos de una cadena de ADN almacenada en un archivo. 
 # Category: 
