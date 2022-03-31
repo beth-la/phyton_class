@@ -11,16 +11,17 @@
 
 my_file= input("Inserta la ruta del archivo en el que se encuentra la secuencia ")
 
-# Con with open no es necesario cerrar el archivo al final
+# Al abrir el archivo con with open, el archivo se cerrara automaticamente 
 # Del archivo obtenemos la longitud de la secuencia y la secuencia.
 # La longitud del archivo la obtenemos con la funcion len() y guardamos el resultado en la variable longitud_secuencia
-# .read() nos merpite almacenar el contenido del archivo en una variable, en este caso secuencia_adn 
+# .read() nos merpite almacenar el contenido del archivo en una variable, en este caso: secuencia_adn 
 
 with open(my_file) as archivo:
     secuencia_adn  = archivo.read()
     longitud_secuencia = len(secuencia_adn)
 
 # Calculamos el porcentaje de AT con una regla de tres:
+# .count() nos permite contar el numero de ocurencias de un caracter en nuestra cadena: secuencia_adn
     
 porcentaje_AT = ((secuencia_adn.count('A') + secuencia_adn.count('T')) * 100 )/(longitud_secuencia)
 
